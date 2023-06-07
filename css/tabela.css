@@ -1,0 +1,31 @@
+
+.cliente {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cliente h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.cliente p {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.acoes a {
+    margin-right: 10px;
+    color: #333;
+    text-decoration: none;
+    background-color: pink;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    color: #999;
+}
